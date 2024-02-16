@@ -1,5 +1,6 @@
-This project aims to analyze a dataset containing ratings for beauty products. The dataset is loaded into a DataFrame using the pandas library.
 
+This project aims to analyze a dataset containing ratings for beauty products. The dataset is loaded into a DataFrame using the pandas library.
+Dataset:https://www.kaggle.com/datasets/skillsmuggler/amazon-ratings
 Data Exploration:
 
 The df.describe() function provides summary statistics for numerical columns, giving insights into the distribution of ratings.
