@@ -22,5 +22,6 @@ The percentage of products with a rating of 5 is calculated by dividing the numb
 The product with the highest average rating is identified by calculating the mean rating for each product, sorting the results in descending order, and selecting the top product.
 
 The number of users giving 5-star and 1-star ratings for a specific product ('0205616461') is determined by filtering the data accordingly, and a bar plot is created to visualize the results.
+
 Conclusion:
 This analysis provides valuable insights into the beauty products ratings dataset, including the distribution of ratings, popularity of products, and behavior of users. It helps in understanding factors such as product satisfaction, user preferences, and overall trends in the beauty products market.
